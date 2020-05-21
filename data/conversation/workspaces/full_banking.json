@@ -1649,7 +1649,7 @@
       "output": {
         "text": {
           "values": [
-            "Hi! Welcome to Open Finance Bank. How can I help you today?"
+            "Hi! Welcome to Megabank. How can I help you today?"
           ]
         }
       },
@@ -1666,7 +1666,7 @@
       "output": {
         "text": {
           "values": [
-            "Hi, I'm Watson. Welcome to Open Financial Bank. You have some notifications. Want to have a look? <br> <input type=\"submit\"  class=\"btn-primary\" onclick=\"accountType('YES')\" value=\"Yes\" />   <input type=\"submit\"  class=\"btn-primary\"  onclick=\"accountType('NO')\"   value=\"No\" />"
+            "Hi, I'm Watson. Welcome to Megabank. You have some notifications. Want to have a look? <br> <input type=\"submit\"  class=\"btn-primary\" onclick=\"accountType('YES')\" value=\"Yes\" />   <input type=\"submit\"  class=\"btn-primary\"  onclick=\"accountType('NO')\"   value=\"No\" />"
           ],
           "selection_policy": "sequential"
         }
@@ -2385,7 +2385,7 @@
       "output": {
         "text": {
           "values": [
-            "Yes, exclusive deals and customized offers are available for you, in addition to the pre-existing offers available from Open Finance such as those on Open Finance credit cards / debit cards."
+            "Yes, exclusive deals and customized offers are available for you, in addition to the pre-existing offers available from Megabank such as those on Megabank credit cards / debit cards."
           ],
           "selection_policy": "sequential"
         }
